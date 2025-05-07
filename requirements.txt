@@ -1,0 +1,6 @@
+streamlit==1.30.0
+pandas==2.1.1
+pycountry==23.12.11
+requests==2.31.0
+Pillow==10.1.0
+google-generativeai==0.3.1
